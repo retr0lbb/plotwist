@@ -34,3 +34,6 @@ Open-source easy management and reviews about movies, series and animes.
     src="https://api.star-history.com/svg?repos=plotwist-app/plotwist&type=Date&theme=dark"
   />
 </picture>
+
+
+test
